@@ -1,4 +1,5 @@
 Users REST API
+
 API REST para gestión de usuarios desarrollada con Spring Boot, JPA, PostgreSQL, Spring Security, ModelMapper y documentación con OpenAPI/Swagger.
 
 Características:
