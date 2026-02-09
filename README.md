@@ -20,11 +20,14 @@ Tecnologías:
 - ModelMapper
 - Springdoc OpenAPI 3
 - Maven
-- 
-Base de datos
+  
+Base de datos:
+
 El script SQL se encuentra en:
 src/DB/database.sql
 Incluye la creación de la tabla y datos de prueba.
-Documentación
-Swagger UI: /swagger-ui.html
-OpenAPI JSON: /v3/api-docs
+
+Documentación:
+
+- Swagger UI: /swa:gger-ui.html
+- OpenAPI JSON: /v3/api-docs
